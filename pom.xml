@@ -17,6 +17,7 @@
     <name>spring-boot-demo-for-wechat-mp</name>
     <description>Spring Boot Demo with wechat MP</description>
 
+		<!-- 1 -->
     <properties>
         <weixin-java-mp.version>3.3.0</weixin-java-mp.version>
 
